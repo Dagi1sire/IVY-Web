@@ -1,0 +1,6 @@
+{
+  "name": "IVY Childcare Services",
+  "description": "Daycare and therapeutic early-intervention center in Addis Ababa, Ethiopia. Clear fees, individual care plans, and daily progress reporting for parents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
